@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Scientist's Toolbox - Course proyect
+Data Scientist's Toolbox - Course project
